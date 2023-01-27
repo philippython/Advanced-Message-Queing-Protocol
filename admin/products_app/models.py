@@ -8,5 +8,5 @@ class Products(models.Model):
     likes= models.PositiveIntegerField(default=0)
 
 
-class USer(models.Model):
+class User(models.Model):
     pass
